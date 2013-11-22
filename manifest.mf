@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Agent-Class: com.msploit.instrument.SimpleMain
+Boot-Class-Path: lib/asm-2.0.jar lib/asm-attrs-2.0.jar lib/asm-commons-2.0.jar
+Can-Redefine-Classes: true
